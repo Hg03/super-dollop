@@ -1,0 +1,4 @@
+flet>=0.7.0
+pandas
+scikit-learn>=1.2.0
+deta==1.1.0
